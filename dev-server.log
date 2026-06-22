@@ -1,0 +1,46 @@
+
+> bazarbd@0.1.0 dev
+> next dev --hostname 127.0.0.1
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+- Environments: .env
+✓ Ready in 1893ms
+Creating turbopack project {
+  dir: 'E:\\OneDrive\\Desktop\\CLAUDE_GUIDE(WEB_PROJECT)\\bazarbd',
+  testMode: true
+}
+
+○ Compiling / ...
+ GET / 200 in 36.8s (next.js: 35.2s, application-code: 1631ms)
+○ Compiling /api/products ...
+ GET /api/products?featured=true 200 in 5.5s (next.js: 4.4s, application-code: 1161ms)
+ GET /sw.js 404 in 4.2s (next.js: 4.0s, application-code: 172ms)
+○ Compiling /products ...
+ GET /products?category=Fashion 200 in 1852ms (next.js: 1641ms, application-code: 211ms)
+ GET /products?category=Food 200 in 2.6s (next.js: 2.4s, application-code: 135ms)
+ GET /products?category=Sports 200 in 4.9s (next.js: 4.8s, application-code: 72ms)
+ GET /products?category=Sports 200 in 77ms (next.js: 10ms, application-code: 67ms)
+ GET /api/products?category=Fashion 200 in 865ms (next.js: 16ms, application-code: 850ms)
+ GET /api/products?category=Fashion 200 in 268ms (next.js: 8ms, application-code: 261ms)
+ GET /products?category=Electronics 200 in 57ms (next.js: 6ms, application-code: 51ms)
+ GET /api/products?category=Electronics 200 in 258ms (next.js: 6ms, application-code: 252ms)
+ GET / 200 in 57ms (next.js: 10ms, application-code: 46ms)
+ GET /api/products?featured=true 200 in 259ms (next.js: 5ms, application-code: 254ms)
+ GET /api/products?featured=true 200 in 252ms (next.js: 3ms, application-code: 249ms)
+ GET /products?category=Food 200 in 54ms (next.js: 6ms, application-code: 48ms)
+ GET /api/products?category=Food 200 in 256ms (next.js: 6ms, application-code: 251ms)
+ GET /api/products?category=Food 200 in 257ms (next.js: 4ms, application-code: 253ms)
+ GET /products?category=Fashion 200 in 63ms (next.js: 6ms, application-code: 57ms)
+ GET /api/products?category=Fashion 200 in 269ms (next.js: 15ms, application-code: 254ms)
+ GET /products 200 in 27ms (next.js: 8ms, application-code: 18ms)
+ GET /products 200 in 55ms (next.js: 6ms, application-code: 49ms)
+ GET /api/products 200 in 280ms (next.js: 6ms, application-code: 274ms)
+ GET /api/products/1 404 in 4.3s (next.js: 2.8s, application-code: 1449ms)
+ GET /sw.js 404 in 129ms (next.js: 13ms, application-code: 115ms)
+ GET /api/products/2 404 in 167ms (next.js: 28ms, application-code: 139ms)
+ GET /sw.js 404 in 89ms (next.js: 11ms, application-code: 78ms)
+ GET /api/products/cmqla1dpv0005q4w0h4c5djz5 200 in 787ms (next.js: 23ms, application-code: 765ms)
+ GET /sw.js 404 in 174ms (next.js: 14ms, application-code: 160ms)
+[?25h
