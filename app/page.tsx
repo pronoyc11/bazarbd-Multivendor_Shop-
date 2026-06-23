@@ -141,7 +141,7 @@ export default function HomePage() {
             <p className="opacity-90">Become a vendor and reach customers across Bangladesh.</p>
           </div>
           <Link
-            href="/vendor"
+            href="/vendor/dashboard"
             className="whitespace-nowrap rounded-full bg-white px-6 py-3 font-bold text-orange-500 hover:bg-orange-50"
           >
             Become a vendor
